@@ -1,16 +1,16 @@
 # Compiled files
-/target/
+target/
 
 # Dependency directories
 Cargo.lock
 Cargo.toml.orig
-/vendor/
+vendor/
 
 # Generated documentation
-/doc/
+doc/
 
 # Build output
-/build/
+build/
 
 # Editor and IDE files
 .idea/
